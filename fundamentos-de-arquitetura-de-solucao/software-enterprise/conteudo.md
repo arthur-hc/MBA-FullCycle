@@ -1,8 +1,4 @@
-# Fundamentos de Arquitetura de solução
-
----
-
-## Softwares enterprise
+# Softwares enterprise
 
 Grandes sistemas de grandes corporações, ou seja:
 
