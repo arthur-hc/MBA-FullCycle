@@ -6,3 +6,4 @@ Este repositório terá anotações e conteúdos relacionados ao MBA da Full Cyc
 ### Fundamentos de Arquitetura de solução
 - Fundamentos da arquitetura de solução
 - Solution Architecture
+- Design Patterns - parte 1
