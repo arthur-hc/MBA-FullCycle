@@ -106,4 +106,4 @@ A estrutura organizacional influencia diretamente no design da aplicação. Deci
 
 A impressão, pontos focais e conclusões sobre algo, varia de acordo com a realidade de cada um. Exemplo, um design irá perceber pontos diferentes de um engenheiro de software
 
-View é uma perspectiva sobre a solução, enquanto uma viewpoint é uma maneira de olhar para o sistema de um ângulo específico.
+View é uma perspectiva sobre a solução, enquanto uma viewpoint é uma **maneira** de olhar para o sistema de um ângulo específico.
