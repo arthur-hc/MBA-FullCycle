@@ -25,4 +25,4 @@ Pessoas + Processos + Tecnologia + Governança = Enterprise software
 
 - **Integração**: capacidade dos sistemas se comunicarem entre sí, com de terceiros, e desses terceiros tem a capacidade de serem integrados
 
-- **Observabilidade**: a "caixa preta" é possível de ser observada? consigo entender o que está acontecendo na entrada e saída da aplicação? Sou capaz de rastrear o caminho dos dados durante a jornada?
+- **Observabilidade**: a "caixa preta" é possível de ser observada? consigo entender o que está acontecendo na entrada e saída da aplicação? Sou capaz de rastrear o caminho dos dados durante a jornada? Seus 3 pilares são: **Logs** (logam o que acontece na aplicação), **Métricas** (indicam os recursos da aplicação) e **Traces** (mostram o caminho completo de uma requisição em múltiplos seriços)
