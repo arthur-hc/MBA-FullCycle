@@ -17,7 +17,7 @@ Pessoas + Processos + Tecnologia + Governança = Enterprise software
 
 - **Escalabilidade**: consegue manter a sua capacidade independentemente da quantidade de usuários e picos de uso
 
-- **Disponibilidade**: capacidade de conseguir manter um sistema/funcionalidade disponível 24/7 ou conforme sua exigência, de forma eficiência (com o menor custo), mesmo em momentos de stress. **ATENÇÃO**: o serviço não precisar estar ativo 24/7, muitas vezes ele pode ficar em modo "watch", para subir apenas conforme a demanda
+- **Disponibilidade**: capacidade de conseguir manter um sistema/funcionalidade disponível 24/7 ou conforme sua exigência, de forma eficiente (com o menor custo), mesmo em momentos de estresse. **ATENÇÃO**: o serviço não precisa estar ativo 24/7; muitas vezes ele pode ficar em modo "watch", para subir apenas conforme a demanda
 
 - **Segurança**: conjunto de regras e camadas de proteção a nível de sistema e operação. É necessário ter processos internos para garantir a segurança desde o usuário externo até quem opera e desenvolve.
 
