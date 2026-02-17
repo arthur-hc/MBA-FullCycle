@@ -23,6 +23,6 @@ Pessoas + Processos + Tecnologia + Governança = Enterprise software
 
 - **Customização e Modularização**: capacidade de um sistema de adaptar para manter o diferencial competitivo se adaptando as cenários necessários através de customizações. Pode haver aumento de custos.
 
-- **Integração**: capacidade dos sistemas se comunicarem entre sí, com de terceiros, e desses terceiros tem a capacidade de serem integrados
+- **Integração**: capacidade de os sistemas se comunicarem entre si e com sistemas de terceiros, permitindo que esses terceiros também sejam integrados
 
 - **Observabilidade**: a "caixa preta" é possível de ser observada? consigo entender o que está acontecendo na entrada e saída da aplicação? Sou capaz de rastrear o caminho dos dados durante a jornada? Seus 3 pilares são: **Logs** (logam o que acontece na aplicação), **Métricas** (indicam os recursos da aplicação) e **Traces** (mostram o caminho completo de uma requisição em múltiplos seriços)
