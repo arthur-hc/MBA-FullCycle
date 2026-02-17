@@ -1,4 +1,4 @@
-# Dicas para markdon
+# Dicas para markdown
 
 ---
 
