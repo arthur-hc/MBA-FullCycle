@@ -5,7 +5,7 @@
 - Use \*\*\* para negrito e itálico \_ também funciona
 - [Link text](URL 'Title')
 - Images: Use ![Alt text](URL or path).
-- Code blocks `code` ou ```tyoescript
+- Code blocks `code` ou ```typescript
 
 ```typescript
 const phrase = 'Hello World!';
